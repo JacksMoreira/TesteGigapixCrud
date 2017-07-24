@@ -1,0 +1,128 @@
+ body{background-color:#CCCCCC;}
+ 
+ 
+ 
+ .aprendizado {   margin-left:30%;
+                  position: relative;
+                  width:550px;
+		  height:663px;
+		  background-color:#FFFAFA;
+		  border:2px ridge #FFFF00;
+		  border-radius:8px;
+		  -moz-border-radius:8px;
+		  -webkit-border-radius:8px;
+		  box-shadow:4px 4px 4px #CCCCCC;
+		  }
+ 
+ 
+ 
+ #linha1 {font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+   font-size:12px;
+   color:#FF4500;
+   font-weight:bold;
+   text-indent:30px;
+   position:relative;}
+ 
+ 
+ 
+   .botao {
+display: inline-block;
+background-color: #ccc;
+color: #444;
+padding: 10px 20px;
+text-decoration: underline;
+box-sizing: border-box;
+font-family: Helvetica, Arial, sans-serif;
+font-size: 12px;
+border: 2px ridge #FFFF00 ;
+margin-left:15px;
+margin-top:5px;}
+   
+   
+   
+.lista{ position:relative;
+margin-left:110px;
+top:0px}
+
+
+
+.botaodalista{position:relative;
+left:250px;}
+
+
+
+.rodape{    
+position:relative;
+bottom:0;
+width:1305px;
+background-color:#FFFAFA;
+height:50px;
+margin-top:5px;
+border:2px ridge #4B0082;
+margin-left:15px;}
+
+
+
+.header{ position:relative;
+         margin-left:550px;}
+
+
+
+.desen{position:relative;
+       margin-left:550px;
+	   font-family:sans-serif;
+	   font-style:italic;}
+
+
+
+.direita{margin-left:370px;
+         position:relative;
+		 background-color:#FFFAFA;
+		 margin-right:20px;
+		 height:600px;
+		 width:947px;
+		 border:2px ridge #4B0082;
+		 border-radius:8px;
+		  -moz-border-radius:8px;
+		  -webkit-border-radius:8px;
+		  box-shadow:4px 4px 4px #CCCCCC;}
+
+
+
+.linhainformativa{color:#FF4500;}
+
+
+
+.fonte{position:relative;
+       float:right;}
+
+
+
+.esquerda{
+    float:left;
+    margin-left:15px;
+         position:relative;
+		 background-color:#FFFAFA;
+		 margin-right:20px;
+		 height:600px;
+		 width:342px;
+		 border:2px ridge #4B0082;
+		 border-radius:8px;
+		  -moz-border-radius:8px;
+		  -webkit-border-radius:8px;
+		  box-shadow:4px 4px 4px #CCCCCC;}
+
+
+
+.botaodiv{display: inline-block;
+background-color: #ccc;
+color: #444;
+padding: 10px 20px;
+text-decoration: underline;
+box-sizing: border-box;
+font-family: Helvetica, Arial, sans-serif;
+font-size: 12px;
+border: 2px ridge #FFFF00 ;
+width:338px;
+margin-top:50px;
+height:50px;}
